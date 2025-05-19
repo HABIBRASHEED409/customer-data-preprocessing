@@ -13,26 +13,28 @@ The assignment mimics real-world data engineering scenarios. I was provided with
 ## 📁 Repository Structure
 
 customer-data-preprocessing/
-├── data/
-│ └── acw_user_data.csv 
-│
-├── figures/
-│ ├── age_distribution.png
-│ ├── commute_vs_salary.png
-│ ├── age_vs_salary.png
-│ ├── salary_vs_dependants.png
-│ └── ... other seaborn plots
-│
-├── outputs/
-│ ├── processed.json
-│ ├── employed.json
-│ ├── retired.json
-│ ├── remove_ccard.json
-│ └── commute.json 
-│
-├── Portfolio_Python_Assignment.ipynb # ✅ All tasks coded here
-├── README.md # 📄 You are here
-└── .gitignore
+data/
+acw_user_data.csv 
+
+figures/
+age_distribution.png,
+commute_vs_salary.png,
+age_vs_salary.png,
+salary_vs_dependants.png,
+... other seaborn plots
+
+outputs/
+processed.json,
+employed.json,
+retired.json,
+remove_ccard.json,
+commute.json 
+
+Portfolio_Python_Assignment.ipynb # ✅ All tasks coded here
+
+README.md # 📄 You are here
+
+.gitignore
 
 
 ---
